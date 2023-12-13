@@ -1,6 +1,9 @@
 # demo-EAS-KI
 
-Nama : Arfi Raushani Fikra
-NRP  : 5025211084
+Nama    : Arfi Raushani Fikra
+
+NRP     : 5025211084
+
+Kelas   : Keamanan Informasi D
 
 Implementasi percakapan terenkripsi antara server dan client menggunakan algoritma kriptografi simetri DES, dimana pengiriman key terenkripsi untuk percakapan tersebut menggunakan algoritma asimetri RSA
