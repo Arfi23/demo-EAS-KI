@@ -32,7 +32,7 @@ def createPublicKey(p, q):
             pos_e.append(i)
 
     e = random.choice(pos_e)
-    print(pos_e)
+    # print(pos_e)
     return e, tn
 
 # fungsi untuk membuat private key d - inverse mod
