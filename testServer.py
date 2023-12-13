@@ -38,13 +38,13 @@ kunci_string = dec_to_hex(d_dec)
 kunci = int(kunci_string, 16)
 
 # test
-print("Nilai private key d:", d)
-print("Private key berhasil dibuat!")
-print("menerima pesan terenkripsi rec_e_enc: ", rec_e_enc)
-print("isi hasil dekripsi d_dec: ", d_dec)
-print("kunci berupa string hexadecimal:", kunci_string)
-print("kunci yang digunakan (versi integer):", kunci)
-print("=======================================================")
+# print("Nilai private key d:", d)
+# print("Private key berhasil dibuat!")
+# print("menerima pesan terenkripsi rec_e_enc: ", rec_e_enc)
+# print("isi hasil dekripsi d_dec: ", d_dec)
+# print("kunci berupa string hexadecimal:", kunci_string)
+# print("kunci yang digunakan (versi integer):", kunci)
+# print("=======================================================")
 
 
 print(f" ~ percakapan ini terenkripsi dengan key: {kunci_string} yang dikirim oleh client ~")
